@@ -1,0 +1,7 @@
+com\mycompany\inventorymanagement\main.class
+com\mycompany\inventorymanagement\electronics.class
+com\mycompany\inventorymanagement\DBUtils.class
+com\mycompany\inventorymanagement\furniture.class
+com\mycompany\inventorymanagement\electronics$Movable.class
+com\mycompany\inventorymanagement\electronics$Unmovable.class
+com\mycompany\inventorymanagement\stationary.class
